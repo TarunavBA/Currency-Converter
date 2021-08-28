@@ -1,4 +1,4 @@
-# Welcome to Tarunav.BA's page! 🥳
+# Welcome to Tarunav.BA's page! 
 
 ## My projects:
 - [Currency Converter](https://github.com/TarunavBA/Currency-Converter/)
